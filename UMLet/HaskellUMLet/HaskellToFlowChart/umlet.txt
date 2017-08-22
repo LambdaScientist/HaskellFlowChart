@@ -1,0 +1,22 @@
+If
+	
+	[FOO1]
+	While[Do this]
+		
+		[FOO1]
+		"Code"
+		
+		[FOO2]
+		"Code"
+		
+		[FOO3]
+		"Code"
+		
+	
+	[FOO2]
+	"Code"
+	
+	[FOO3]
+	"Code"
+	
+EndIf
